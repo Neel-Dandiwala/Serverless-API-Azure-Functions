@@ -8,7 +8,8 @@
       "methods": [
         "get",
         "post"
-      ]
+      ],
+      "routes": "products"
     },
     {
       "type": "http",
