@@ -8,8 +8,6 @@ description: "Products Manager application for Serverless API Learn Module"
 urlFragment: "mslearn-build-api-azure-functions"
 ---
 
-# Official Microsoft Sample
-
 <!--
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
 
